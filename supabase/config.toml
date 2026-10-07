@@ -1,0 +1,2 @@
+[functions.process-research-task]
+verify_jwt = true
